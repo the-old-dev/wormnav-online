@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "google-drive-js",
+			"path": "google-drive-js"
+		},
+		{
+			"name": "google-oauth-js",
+			"path": "google-oauth-js"
+		},
+		{
+			"name": "web-ui-elements",
+			"path": "web-ui-elements"
+		},
+		{
+			"name": "wormnav-online-design",
+			"path": "wormnav-online-design"
+		},
+		{
+			"path": "."
+		}
+	]
+}
